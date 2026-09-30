@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+
+pharmacy.db
+pharmacy_backup.db
+pharmacy.csv
+stock_entries.csv
+usage_history.csv
+users.csv
+
+New Text Document.txt
+python
